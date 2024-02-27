@@ -10,6 +10,7 @@ The dataset used for this analysis is ["application_data.csv","previous_applicat
 
 - `Credit Loan EDA.ipynb`: Jupyter Notebook containing the Python code for EDA.
 -  CSV file containing the raw data.
+-  Brief Summary of the project in the powerpoint.
 
 ## Analysis Overview
 
